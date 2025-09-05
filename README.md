@@ -67,5 +67,5 @@ Runs the app at [`http://localhost:5173`](http://localhost:5173)
 
 ## 👩🏻‍💻 Guided by learning & code by
 
-**Riya Devaliya**  
+**Richa Devaliya**  
 📍 [GitHub](https://github.com/Riya-1410)
