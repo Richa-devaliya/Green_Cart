@@ -1,4 +1,4 @@
-# 🌿 Green Stack (Frontend Only)
+# 🌿 Green Cart (Frontend Only)
 
 🚀 **Live Demo:** [green-stack-one.vercel.app](https://green-stack-one.vercel.app)
 
