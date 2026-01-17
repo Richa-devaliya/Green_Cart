@@ -55,17 +55,3 @@ Runs the app at [`http://localhost:5173`](http://localhost:5173)
 
 ---
 
-## 📌 To-Do (Next Steps)
-
-- [ ] Add backend (Node + Express)  
-- [ ] Integrate MongoDB for dynamic data  
-- [ ] Auth system (Login/Register)  
-- [ ] Checkout flow / Cart  
-- [ ] Deployment
-
----
-
-## 👩🏻‍💻 Guided by learning & code by
-
-**Richa Devaliya**  
-📍 [GitHub](https://github.com/Riya-1410)
